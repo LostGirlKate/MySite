@@ -2,7 +2,7 @@
 
 ### Чаще всего меня можно встретить с этой аватаркой
 
-<img src="https://static.wikia.nocookie.net/disney/images/5/58/Youloveit_ru_ralph_disney15.jpg/revision/latest?cb=20201107171212&path-prefix=ru" height="200">
+<img src="https://sun9-64.userapi.com/s/v1/if2/Qsp-XY6OzNs3YC6tCc4TcTUAG-iZWhkax6mOpr39Jl-Hrt5HfjkTF3rI6ZqakDmF7zW5IVfc8oN27R4m9gW0gxBL.jpg?size=200x418&quality=96&crop=0,1,288,603&ava=1" height="200">
 
 _Хорошо, что Markdown поддерживает HTML (картинка была крупновата)_
 
@@ -23,4 +23,4 @@ _Хорошо, что Markdown поддерживает HTML (картинка �
 * _Было очень позновательно и увлекательно!_
 
 
-![](https://static.wikia.nocookie.net/disney/images/5/58/Youloveit_ru_ralph_disney15.jpg/revision/latest?cb=20201107171212&path-prefix=ru)
+![](https://sun9-64.userapi.com/s/v1/if2/Qsp-XY6OzNs3YC6tCc4TcTUAG-iZWhkax6mOpr39Jl-Hrt5HfjkTF3rI6ZqakDmF7zW5IVfc8oN27R4m9gW0gxBL.jpg?size=200x418&quality=96&crop=0,1,288,603&ava=1)
